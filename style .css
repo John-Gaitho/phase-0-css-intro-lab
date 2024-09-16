@@ -1,0 +1,11 @@
+body {
+    background: #9dee07;
+    front-size: 100%;
+}
+div  {
+    width: 700px;
+    margin: auto;
+    front-family:"Helvetica Neue";
+    background: white;
+    padding: 30px;
+}
